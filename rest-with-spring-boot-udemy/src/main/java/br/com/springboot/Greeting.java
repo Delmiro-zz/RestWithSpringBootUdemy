@@ -1,4 +1,4 @@
-package br.com.springboot.restwithspringbootudemy;
+package br.com.springboot;
 
 public class Greeting {
 
