@@ -1,4 +1,4 @@
-package br.com.springboot;
+package br.com.springboot.model;
 
 public class Greeting {
 

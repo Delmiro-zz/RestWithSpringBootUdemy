@@ -13,3 +13,4 @@ public class UnsuportedMathOperationException extends RuntimeException {
 	}
 
 }
+	
